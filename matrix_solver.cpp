@@ -239,9 +239,9 @@ void findRow(vector<int> & myV , vector<int> & coeff , int res, string out_name)
 			}
 		}
 
-		for (int i = 1; i < myMiss.size() + 1; i++) // þuan için myMiss = 2  
+		for (int i = 1; i < myMiss.size() + 1; i++) // Ã¾uan iÃ§in myMiss = 2  
 			{
-				myMiss[myMiss.size()-i]= 1 ; // tüm elemanlar 1
+				myMiss[myMiss.size()-i]= 1 ; // tÃ¼m elemanlar 1
 		}
 		int num = 1 ;
 	
