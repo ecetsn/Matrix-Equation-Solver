@@ -48,7 +48,7 @@ Values inside the LHS matrix are either positive integers in the range [1-9] inc
 Values inside the RHS matrix are in the range [1-9] inclusive. <br>
 Values inside the RES matrix are positive integers greater than or equal to 1.
 
-<br/>
+<br>
 
 > [!NOTE]
 > This project was developed as a programming assignment and serves as an educational resource for working.
